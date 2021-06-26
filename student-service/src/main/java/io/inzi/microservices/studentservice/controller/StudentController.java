@@ -12,7 +12,7 @@ import io.inzi.microservices.studentservice.model.Student;
 import io.inzi.microservices.studentservice.service.StudentService;
 
 @RestController
-@RequestMapping("students")
+@RequestMapping("students/")
 public class StudentController {
     
     @Autowired
