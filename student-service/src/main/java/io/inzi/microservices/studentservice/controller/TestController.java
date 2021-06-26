@@ -1,4 +1,4 @@
-package io.inzi.studentservice.controller;
+package io.inzi.microservices.studentservice.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

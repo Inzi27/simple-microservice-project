@@ -1,4 +1,4 @@
-package io.inzi.studentservice.model;
+package io.inzi.microservices.studentservice.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

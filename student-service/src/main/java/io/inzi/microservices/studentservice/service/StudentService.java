@@ -1,10 +1,11 @@
-package io.inzi.studentservice.service;
+package io.inzi.microservices.studentservice.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import io.inzi.studentservice.model.Student;
-import io.inzi.studentservice.repository.StudentRepository;
+import io.inzi.microservices.studentservice.model.Student;
+import io.inzi.microservices.studentservice.repository.StudentRepository;
+
 
 @Service
 public class StudentService {
